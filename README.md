@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onyxvillamor
-- 🌱 I’m currently learning java and frontend web development
+- 🌱 I’m currently learning java and web development
 - 📫 How to reach me: onyxvillamor99@gmail.com
 
 <!---
