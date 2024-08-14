@@ -1,5 +1,5 @@
 # Hi 👋, I'm Onyx
-## A Computer Engineering Tech. student who loves to learn new technologies
+A Computer Engineering Tech. student who loves to learn new technologies
 
 - 🌱 I’m currently learning **Web development**
 
