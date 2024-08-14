@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onyx</h1>
-<h3 align="center">A Computer Engineering Tech. student who loves to learn new technologies</h3>
+# Hi 👋, I'm Onyx
+## A Computer Engineering Tech. student who loves to learn new technologies
 
 - 🌱 I’m currently learning **Web development**
 
