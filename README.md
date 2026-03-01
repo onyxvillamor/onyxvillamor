@@ -35,9 +35,7 @@ A Computer Engineering Tech. student who loves to learn new technologies
 
 </p>
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=onyxvillamor&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
